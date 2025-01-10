@@ -18,14 +18,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍💻 About me
-I am Xinqi Chen, a fourth-year Ph.D student in Computer Science from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Professor [Guangtao Xue](https://scholar.google.com/citations?user=vTC9TSQAAAAJ&hl=zh-CN&oi=ao) and [Erci Xu](https://scholar.google.com/citations?user=7Yc6A1QAAAAJ&hl=zh-CN&oi=ao). I have been an intern with the Alibaba Innovative Research (AIR) program at Alibaba Cloud since 2022. My current research interest focuses on scheduling and resource management in modern data centers. I work on designing efficient schedulers for various components of distributed storage systems, including archive storage and block storage. Before that, I was involved in the research of mobile computing and wireless sensing.
+
+I am Xinqi Chen, a fourth-year Ph.D student in Department of Computer Science and Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Professor [Guangtao Xue](https://scholar.google.com/citations?user=vTC9TSQAAAAJ&hl=zh-CN&oi=ao) and Professor [Yichao Chen](https://scholar.google.com/citations?user=LdNIR90AAAAJ). I have been an intern with the Alibaba Innovative Research (AIR) program at Alibaba Cloud since 2022, advised by [Erci Xu](https://scholar.google.com/citations?user=7Yc6A1QAAAAJ&hl=zh-CN&oi=ao). My current research interest focuses on scheduling and resource management in modern data centers. I have been working on designing efficient schedulers for various components of distributed storage systems, including object storage and block storage. Before that, I was involved in the research of mobile computing and wireless sensing.
 
 # 📖 Educations
+
 - *2021.09 - 2026.06 (Expected)*, Shanghai Jiao Tong University, Computer Science (CS)
-- *2017.08 - 2021.06*, Sun-Yat Sen University, Electronic Engineering (EE)
+- *2017.08 - 2021.06*, Sun Yat-Sen University, Electronic Engineering (EE)
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉 Our paper *MasterPlan* is accepted by ACM TACO 2024! 
+
+- *2024.12*: &nbsp;🎉 Our paper ***MasterPlan*** is accepted by **ACM TACO 2024**! 
+- *2024.08*: &nbsp;🎉 Our paper is accepted by **ACM EuroSys 2024**!
 
 # 📝 Publications 
 
@@ -45,13 +49,13 @@ I am Xinqi Chen, a fourth-year Ph.D student in Computer Science from [Shanghai J
   
     **Xinqi Chen**, Erci Xu, Dengyao Mo, Ruiming Lu, Haonan Wu, Dian Ding, Guangtao Xue
 
-    **Transaction on Architecture and Code Optimization 2024**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>
+    **ACM Transaction on Architecture and Code Optimization 2024**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>
 
 - [Hey Hey, My My, Skewness Is Here to Stay: Challenges and Opportunities in Cloud Block Store Traffic]()
 
     Haonan Wu, Erci Xu, Ligang Wang, Yuandong Hong, Changsheng Niu, Bo Shi, Lingjun Zhu, Jinnian He, Dong Wu, Weidong Zhang, Qiuping Wang, Changhong Wang, **Xinqi Chen**, Guangtao Xue, Yi-Chao Chen, Dian Ding
 
-    **EuroSys 2024**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>
+    **ACM EuroSys 2024**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>
 
 - [Remote Attacks on Speech Recognition Systems Using Sound from Power Supply](https://www.usenix.org/system/files/usenixsecurity23-yang-lanqing.pdf)
 
@@ -68,10 +72,14 @@ I am Xinqi Chen, a fourth-year Ph.D student in Computer Science from [Shanghai J
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.09 - 2024.01*, Alibaba Cloud, Elastic Block Storage Team, China.
-- *2022.07 - 2023.09*, Alibaba Cloud, Archive Storage Team, China.
+
+- *2023.09 - 2025.01*, Alibaba Cloud, Elastic Block Storage Team, Hangzhou, China.
+- *2022.07 - 2023.09*, Alibaba Cloud, Pangu AutoPos Team, Hangzhou, China.
+- *2020.10 - 2021.01*, Pudu Robotics, CV Algorithm Development Team, Shenzhen, China.
 
 # 👻 Misc
-- Technical Skills: Python, C/C++, Golang, Latex, Shell, Linux 
+
+- Technical Skills: Python, C/C++, Golang, Latex, Shell, Linux, Docker
 - Languages: Chinese (Native), English (CET-6 594)
+- Services: ICIC 2024 (Reviewer)
 - Hobbies: Basketball, Music
