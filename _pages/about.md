@@ -19,7 +19,9 @@ redirect_from:
 
 # 👨‍💻 About me
 
-I am Xinqi Chen, a fourth-year Ph.D student in Department of Computer Science and Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Professor [Guangtao Xue](https://scholar.google.com/citations?user=vTC9TSQAAAAJ&hl=zh-CN&oi=ao) and Professor [Yichao Chen](https://scholar.google.com/citations?user=LdNIR90AAAAJ). I have been an intern with the Alibaba Innovative Research (AIR) program at Alibaba Cloud since 2022, advised by [Erci Xu](https://scholar.google.com/citations?user=7Yc6A1QAAAAJ&hl=zh-CN&oi=ao). My current research interest focuses on scheduling and resource management in modern data centers. I have been working on designing efficient schedulers for various components of distributed storage systems, including object storage and block storage. Before that, I was involved in the research of mobile computing and wireless sensing.
+I am Xinqi Chen, a fourth-year Ph.D student in Department of Computer Science and Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Professor [Guangtao Xue](https://scholar.google.com/citations?user=vTC9TSQAAAAJ&hl=zh-CN&oi=ao) and Professor [Yichao Chen](https://scholar.google.com/citations?user=LdNIR90AAAAJ). I have been an intern with the Alibaba Innovative Research (AIR) program at Alibaba Cloud since 2022, advised by Researcher [Erci Xu](https://scholar.google.com/citations?user=7Yc6A1QAAAAJ&hl=zh-CN&oi=ao). Now I am a visiting student in the Department of Computer Science and Engineering at The Chinese University of Hong Kong, advised by Professor [Patrick P. C. Lee](https://scholar.google.com.hk/citations?user=gyRtVVEAAAAJ&hl=zh-CN&oi=ao).
+
+My current research interest focuses on scheduling and resource management in modern data centers. I have been working on designing efficient schedulers for various components of distributed storage systems, including object storage and block storage. Before that, I was involved in the research of mobile computing and wireless sensing.
 <!-- Find my CV [here](cv/resume.pdf). -->
 
 # 📖 Educations
@@ -74,6 +76,7 @@ I am Xinqi Chen, a fourth-year Ph.D student in Department of Computer Science an
 
 # 💻 Internships
 
+- *2025.03 - 2026.03 (Expected)*, The Chinese University of Hong Kong, Department of Computer Science and Engineering, Hong Kong, China.
 - *2023.09 - 2025.01*, Alibaba Cloud, Elastic Block Storage Team, Hangzhou, China.
 - *2022.07 - 2023.09*, Alibaba Cloud, Pangu AutoOps Team, Hangzhou, China.
 - *2020.10 - 2021.01*, Pudu Robotics, Algorithm Development Team, Shenzhen, China.
