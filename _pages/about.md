@@ -83,7 +83,5 @@ My current research interest focuses on scheduling and resource management in mo
 
 # 👻 Misc
 
-- Technical Skills: Python, C/C++, Golang, Latex, Shell, Linux, Docker
-- Languages: Chinese (Native), English (CET-6 594)
 - Services: ICIC 2024 (Reviewer)
 - Hobbies: Basketball, Music
