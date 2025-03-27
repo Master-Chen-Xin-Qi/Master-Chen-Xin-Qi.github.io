@@ -19,9 +19,9 @@ redirect_from:
 
 # 👨‍💻 About me
 
-I am Xinqi Chen, a fourth-year Ph.D student in Department of Computer Science and Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Professor [Guangtao Xue](https://scholar.google.com/citations?user=vTC9TSQAAAAJ&hl=zh-CN&oi=ao) and Professor [Yichao Chen](https://scholar.google.com/citations?user=LdNIR90AAAAJ). I have been an intern with the Alibaba Innovative Research (AIR) program at Alibaba Cloud since 2022, advised by Researcher [Erci Xu](https://scholar.google.com/citations?user=7Yc6A1QAAAAJ&hl=zh-CN&oi=ao). Now I am a visiting student in the Department of Computer Science and Engineering at The Chinese University of Hong Kong, advised by Professor [Patrick P. C. Lee](https://scholar.google.com.hk/citations?user=gyRtVVEAAAAJ&hl=zh-CN&oi=ao).
+I am Xinqi Chen, a fourth-year Ph.D student in Department of Computer Science and Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Professor [Guangtao Xue](https://scholar.google.com/citations?user=vTC9TSQAAAAJ&hl=zh-CN&oi=ao). I have been an intern with the Alibaba Innovative Research (AIR) program at Alibaba Cloud since 2022, advised by Researcher [Erci Xu](https://scholar.google.com/citations?user=7Yc6A1QAAAAJ&hl=zh-CN&oi=ao). Now I am a visiting student in the Department of Computer Science and Engineering at The Chinese University of Hong Kong, advised by Professor [Patrick P. C. Lee](https://scholar.google.com.hk/citations?user=gyRtVVEAAAAJ&hl=zh-CN&oi=ao).
 
-My current research interest focuses on scheduling and resource management in modern data centers. I have been working on designing efficient schedulers for various components of distributed storage systems, including object storage and block storage. Before that, I was involved in the research of mobile computing and wireless sensing.
+My current research interest focuses on scheduling and resource management in modern data centers, cold start optimization for VD image, and reliability for systems. I have been working on designing efficient schedulers for various components of distributed storage systems, including archival storage and block storage. Before that, I was involved in the research of mobile computing and wireless sensing, and I have done research on current signal attack on smart speakers and magnetic signal side channel attack.
 <!-- Find my CV [here](cv/resume.pdf). -->
 
 # 📖 Educations
@@ -31,7 +31,7 @@ My current research interest focuses on scheduling and resource management in mo
 
 # 🔥 News
 
-- *2024.12*: &nbsp;🎉 Our paper ***MasterPlan*** is accepted by **ACM TACO 2024**! 
+- *2024.12*: &nbsp;🎉 Our paper ***MasterPlan*** is accepted by **ACM TACO**!
 - *2024.08*: &nbsp;🎉 Our paper is accepted by **ACM EuroSys 2024**!
 
 # 📝 Publications (*: Co-first)
@@ -52,7 +52,7 @@ My current research interest focuses on scheduling and resource management in mo
   
     **Xinqi Chen**, Erci Xu, Dengyao Mo, Ruiming Lu, Haonan Wu, Dian Ding, Guangtao Xue
 
-    **ACM Transaction on Architecture and Code Optimization 2024**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>
+    **ACM Transaction on Architecture and Code Optimization 22 (1) 2025**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>
 
 - [Hey Hey, My My, Skewness Is Here to Stay: Challenges and Opportunities in Cloud Block Store Traffic](https://dl.acm.org/doi/10.1145/3689031.3696068)
 
