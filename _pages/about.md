@@ -34,7 +34,7 @@ My current research interest focuses on scheduling and resource management in mo
 - *2024.12*: &nbsp;🎉 Our paper ***MasterPlan*** is accepted by **ACM TACO 2024**! 
 - *2024.08*: &nbsp;🎉 Our paper is accepted by **ACM EuroSys 2024**!
 
-# 📝 Publications 
+# 📝 Publications (*: Co-first)
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,11 +54,11 @@ My current research interest focuses on scheduling and resource management in mo
 
     **ACM Transaction on Architecture and Code Optimization 2024**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>
 
-- [Hey Hey, My My, Skewness Is Here to Stay: Challenges and Opportunities in Cloud Block Store Traffic]()
+- [Hey Hey, My My, Skewness Is Here to Stay: Challenges and Opportunities in Cloud Block Store Traffic](https://dl.acm.org/doi/10.1145/3689031.3696068)
 
     Haonan Wu, Erci Xu, Ligang Wang, Yuandong Hong, Changsheng Niu, Bo Shi, Lingjun Zhu, Jinnian He, Dong Wu, Weidong Zhang, Qiuping Wang, Changhong Wang, **Xinqi Chen**, Guangtao Xue, Yi-Chao Chen, Dian Ding
 
-    **ACM EuroSys 2024**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>
+    **ACM EuroSys 2025**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>
 
 - [Remote Attacks on Speech Recognition Systems Using Sound from Power Supply](https://www.usenix.org/system/files/usenixsecurity23-yang-lanqing.pdf)
 
