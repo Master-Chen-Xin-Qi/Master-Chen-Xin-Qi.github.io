@@ -54,6 +54,12 @@ My current research interest focuses on scheduling and resource management in mo
 
     **ACM Transaction on Architecture and Code Optimization 22 (1) 2025**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>
 
+- [MagPrint++: Continuous User Fingerprinting On Mobile Devices Using Electromagnetic Signals]()
+
+    Lanqing Yang*, **Xinqi Chen\***, Hao Pan, Yi-Chao Chen, Guangtao Xue, Zechen Li, Yiheng Bian, Zhen Chen, Dian Ding, Linghe Kong, Jiadi Yu, Feng Lyu, Minglu Li, Ziyu Shen, Bo Zhang **(\*Co-first)**
+
+    **IEEE Transaction on Mobile Computing 2025**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>
+
 - [Hey Hey, My My, Skewness Is Here to Stay: Challenges and Opportunities in Cloud Block Store Traffic](https://dl.acm.org/doi/10.1145/3689031.3696068)
 
     Haonan Wu, Erci Xu, Ligang Wang, Yuandong Hong, Changsheng Niu, Bo Shi, Lingjun Zhu, Jinnian He, Dong Wu, Weidong Zhang, Qiuping Wang, Changhong Wang, **Xinqi Chen**, Guangtao Xue, Yi-Chao Chen, Dian Ding
