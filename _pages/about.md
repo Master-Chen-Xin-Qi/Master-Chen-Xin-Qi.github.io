@@ -19,9 +19,9 @@ redirect_from:
 
 # 👨‍💻 About me
 
-I am Xinqi Chen, a fourth-year Ph.D student in Department of Computer Science and Engineering at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Professor [Guangtao Xue](https://scholar.google.com/citations?user=vTC9TSQAAAAJ&hl=zh-CN&oi=ao) and Associate Professor [Erci Xu](https://scholar.google.com/citations?user=7Yc6A1QAAAAJ&hl=zh-CN&oi=ao). Since July 2022, I have served as a research intern in the Alibaba Innovative Research (AIR) program at Alibaba Cloud, where I collaborated with Pangu, Elastic Block Storage, and PolarDB teams. Currently, I am a visiting student in the Department of Computer Science and Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by Professor [Patrick P. C. Lee](https://scholar.google.com.hk/citations?user=gyRtVVEAAAAJ&hl=zh-CN&oi=ao).
+I am Xinqi Chen, a fourth-year Ph.D student in Department of Computer Science and Engineering at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Professor [Guangtao Xue](https://scholar.google.com/citations?user=vTC9TSQAAAAJ&hl=zh-CN&oi=ao), Professor [Erci Xu](https://scholar.google.com/citations?user=7Yc6A1QAAAAJ&hl=zh-CN&oi=ao), and Professor [Yi-Chao Chen](https://scholar.google.com/citations?user=LdNIR90AAAAJ). Since July 2022, I have served as a research intern in the Alibaba Innovative Research (AIR) program at Alibaba Cloud, where I collaborated with Pangu AutoOps, Elastic Block Storage, and PolarDB teams. Currently, I am a visiting student in the Department of Computer Science and Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by Professor [Patrick P. C. Lee](https://scholar.google.com.hk/citations?user=gyRtVVEAAAAJ&hl=zh-CN&oi=ao).
 
-My current research interests focus on scheduling and resource management in modern storage systems and LLM systems, as well as reliability for systems. Specifically, I have been working on designing efficient schedulers and data prefetchers for key components of distributed storage systems (e.g., archival storage systems and block storage systems), with the goal of optimizing performance and resource utilization. Before that, I was actively engaged in the research of mobile computing and wireless sensing. My work in this area centered on security-related topics, including current signal attacks on power supplies and electromagnetic side-channel attacks, where I explored vulnerabilities of mobile devices.
+My current research interests focus on scheduling and resource management in modern storage systems and LLM systems, as well as reliability for systems. Specifically, I have been working on designing efficient schedulers and data prefetchers for key components of distributed storage systems, with the goal of optimizing performance and resource utilization. Before that, I was actively engaged in the research of mobile computing and wireless sensing. My work in this area centered on security-related topics, including current signal attacks on power supplies and electromagnetic side-channel attacks, where I explored vulnerabilities of mobile devices.
 <!-- Find my CV [here](cv/resume.pdf). -->
 
 # 📖 Educations
@@ -49,7 +49,7 @@ My current research interests focus on scheduling and resource management in mod
 </div>
 </div> -->
 
-- Scheduling Cloud Block Storage Proactively and Reactively with Omar
+- [Scheduling Cloud Block Storage Proactively and Reactively with Omar]()
 
     **Xinqi Chen**, Weidong Zhang, Zhongyu Wang, Erci Xu, Dong Wu, Xiaolu Zhang, Haonan Wu, Yaheng Song, Chaolei Hu, Lijun Ding, Guangtao Xue, Patrick P. C. Lee
 
@@ -89,8 +89,8 @@ My current research interests focus on scheduling and resource management in mod
 
 # 💻 Internships
 
-- *2025.03 - 2026.03*, The Chinese University of Hong Kong, Department of Computer Science and Engineering, Hong Kong, China.
 - *2025.09 - 2026.06*, Alibaba Cloud, PolarDB Team, Hangzhou, China.
+- *2025.03 - 2026.03*, The Chinese University of Hong Kong, Department of Computer Science and Engineering, Hong Kong, China.
 - *2023.09 - 2025.09*, Alibaba Cloud, Elastic Block Storage Team, Hangzhou, China.
 - *2022.07 - 2023.09*, Alibaba Cloud, Pangu AutoOps Team, Hangzhou, China.
 - *2020.10 - 2021.01*, Pudu Robotics, Algorithm Development Team, Shenzhen, China.
