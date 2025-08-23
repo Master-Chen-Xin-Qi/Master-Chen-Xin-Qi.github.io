@@ -31,6 +31,7 @@ My current research interest focuses on scheduling and resource management in mo
 
 # 🔥 News
 
+- *2025.08*: &nbsp;🎉 Our paper ***Omar*** is accepted by **ACM EuroSys 2026**!
 - *2024.12*: &nbsp;🎉 Our paper ***MasterPlan*** is accepted by **ACM TACO**!
 - *2024.08*: &nbsp;🎉 Our paper is accepted by **ACM EuroSys 2024**!
 
@@ -47,6 +48,12 @@ My current research interest focuses on scheduling and resource management in mo
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+
+- Scheduling Cloud Block Storage Proactively and Reactively with Omar
+
+    **Xinqi Chen**, Weidong Zhang, Zhongyu Wang, Erci Xu, Dong Wu, Xiaolu Zhang, Haonan Wu, Yaheng Song, Chaolei Hu, Lijun Ding, Guangtao Xue, Patrick P. C. Lee
+
+    **ACM EuroSys 2026**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>
 
 - [MasterPlan: A Reinforcement Learning Based Scheduler for Archive Storage](https://dl.acm.org/doi/10.1145/3708542)
   
