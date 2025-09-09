@@ -63,7 +63,7 @@ My current research interests focus on scheduling and resource management in mod
 
 - [MagPrint++: Continuous User Fingerprinting On Mobile Devices Using Electromagnetic Signals]()
 
-    Lanqing Yang*, **<u>Xinqi Chen</u>**, Hao Pan, Yi-Chao Chen, Guangtao Xue, Zechen Li, Yiheng Bian, Zhen Chen, Dian Ding, Linghe Kong, Jiadi Yu, Feng Lyu, Minglu Li, Ziyu Shen, Bo Zhang **(\*Co-first)**.
+    Lanqing Yang*, **<u>Xinqi Chen</u>***, Hao Pan, Yi-Chao Chen, Guangtao Xue, Zechen Li, Yiheng Bian, Zhen Chen, Dian Ding, Linghe Kong, Jiadi Yu, Feng Lyu, Minglu Li, Ziyu Shen, Bo Zhang **(\*Co-first)**.
 
     **IEEE Transaction on Mobile Computing 2025**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>.
 
