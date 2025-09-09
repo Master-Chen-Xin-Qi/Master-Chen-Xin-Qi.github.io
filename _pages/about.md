@@ -61,9 +61,9 @@ My current research interests focus on scheduling and resource management in mod
 
     **ACM Transaction on Architecture and Code Optimization 22 (1) 2025**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>.
 
-- [MagPrint++: Continuous User Fingerprinting On Mobile Devices Using Electromagnetic Signals]()
+- <a href="https://your-paper-link" style="text-decoration: none;">MagPrint++: Continuous User Fingerprinting On Mobile Devices Using Electromagnetic Signals</a>
 
-    Lanqing Yang*, **<u>Xinqi Chen</u>***, Hao Pan, Yi-Chao Chen, Guangtao Xue, Zechen Li, Yiheng Bian, Zhen Chen, Dian Ding, Linghe Kong, Jiadi Yu, Feng Lyu, Minglu Li, Ziyu Shen, Bo Zhang **(\*Co-first)**.
+    Lanqing Yang\*, **<u>Xinqi Chen</u>\***, Hao Pan, Yi-Chao Chen, Guangtao Xue, Zechen Li, Yiheng Bian, Zhen Chen, Dian Ding, Linghe Kong, Jiadi Yu, Feng Lyu, Minglu Li, Ziyu Shen, Bo Zhang **(\*Co-first)**.
 
     **IEEE Transaction on Mobile Computing 2025**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>.
 
