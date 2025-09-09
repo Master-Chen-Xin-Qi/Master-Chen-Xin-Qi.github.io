@@ -51,31 +51,31 @@ My current research interests focus on scheduling and resource management in mod
 
 - [Scheduling Cloud Block Storage Proactively and Reactively with Omar]()
 
-    <u>**Xinqi Chen**</u>, Weidong Zhang, Zhongyu Wang, Erci Xu, Dong Wu, Xiaolu Zhang, Haonan Wu, Yaheng Song, Chaolei Hu, Lijun Ding, Guangtao Xue, Patrick P. C. Lee.
+    **<u>Xinqi Chen</u>**, Weidong Zhang, Zhongyu Wang, Erci Xu, Dong Wu, Xiaolu Zhang, Haonan Wu, Yaheng Song, Chaolei Hu, Lijun Ding, Guangtao Xue, Patrick P. C. Lee.
 
     **ACM EuroSys 2026**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>. (Accept rate: 79/467 = 16.9%, spring cycle)
 
 - [MasterPlan: A Reinforcement Learning Based Scheduler for Archive Storage](https://dl.acm.org/doi/10.1145/3708542)
   
-    <u>**Xinqi Chen**</u>, Erci Xu, Dengyao Mo, Ruiming Lu, Haonan Wu, Dian Ding, Guangtao Xue.
+    **<u>Xinqi Chen</u>**, Erci Xu, Dengyao Mo, Ruiming Lu, Haonan Wu, Dian Ding, Guangtao Xue.
 
     **ACM Transaction on Architecture and Code Optimization 22 (1) 2025**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>.
 
 - [MagPrint++: Continuous User Fingerprinting On Mobile Devices Using Electromagnetic Signals]()
 
-    Lanqing Yang*, <u>**Xinqi Chen\***</u>, Hao Pan, Yi-Chao Chen, Guangtao Xue, Zechen Li, Yiheng Bian, Zhen Chen, Dian Ding, Linghe Kong, Jiadi Yu, Feng Lyu, Minglu Li, Ziyu Shen, Bo Zhang **(\*Co-first)**.
+    Lanqing Yang*, **<u>Xinqi Chen</u>**, Hao Pan, Yi-Chao Chen, Guangtao Xue, Zechen Li, Yiheng Bian, Zhen Chen, Dian Ding, Linghe Kong, Jiadi Yu, Feng Lyu, Minglu Li, Ziyu Shen, Bo Zhang **(\*Co-first)**.
 
     **IEEE Transaction on Mobile Computing 2025**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>.
 
 - [Hey Hey, My My, Skewness Is Here to Stay: Challenges and Opportunities in Cloud Block Store Traffic](https://dl.acm.org/doi/10.1145/3689031.3696068)
 
-    Haonan Wu, Erci Xu, Ligang Wang, Yuandong Hong, Changsheng Niu, Bo Shi, Lingjun Zhu, Jinnian He, Dong Wu, Weidong Zhang, Qiuping Wang, Changhong Wang, <u>**Xinqi Chen**</u>, Guangtao Xue, Yi-Chao Chen, Dian Ding.
+    Haonan Wu, Erci Xu, Ligang Wang, Yuandong Hong, Changsheng Niu, Bo Shi, Lingjun Zhu, Jinnian He, Dong Wu, Weidong Zhang, Qiuping Wang, Changhong Wang, **<u>Xinqi Chen</u>**, Guangtao Xue, Yi-Chao Chen, Dian Ding.
 
     **ACM EuroSys 2025**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>. (Accept rate: 30/367 = 8.2%, spring cycle)
 
 - [Remote Attacks on Speech Recognition Systems Using Sound from Power Supply](https://www.usenix.org/system/files/usenixsecurity23-yang-lanqing.pdf)
 
-    Lanqing Yang, <u>**Xinqi Chen**</u>, Xiangyong Jian, Leping Yang, Yijie Li, Qianfei Ren, Yi-Chao Chen, Guangtao Xue, Xiaoyu Ji.
+    Lanqing Yang, **<u>Xinqi Chen</u>**, Xiangyong Jian, Leping Yang, Yijie Li, Qianfei Ren, Yi-Chao Chen, Guangtao Xue, Xiaoyu Ji.
 
     **USENIX Security 2023**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>.
 
