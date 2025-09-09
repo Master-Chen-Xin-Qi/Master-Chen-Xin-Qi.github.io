@@ -49,35 +49,35 @@ My current research interests focus on scheduling and resource management in mod
 </div>
 </div> -->
 
-- [Scheduling Cloud Block Storage Proactively and Reactively with Omar]()
+- <span style="font-weight: bold;">Scheduling Cloud Block Storage Proactively and Reactively with Omar</span>
 
     **<u>Xinqi Chen</u>**, Weidong Zhang, Zhongyu Wang, Erci Xu, Dong Wu, Xiaolu Zhang, Haonan Wu, Yaheng Song, Chaolei Hu, Lijun Ding, Guangtao Xue, Patrick P. C. Lee.
 
-    **ACM EuroSys 2026**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>. (Accept rate: 79/467 = 16.9%, spring cycle)
+    ACM EuroSys 2026, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>. (Accept rate: 79/467 = 16.9%, spring cycle)
 
-- [MasterPlan: A Reinforcement Learning Based Scheduler for Archive Storage](https://dl.acm.org/doi/10.1145/3708542)
+- <span style="font-weight: bold;">MasterPlan: A Reinforcement Learning Based Scheduler for Archive Storage</span>
   
     **<u>Xinqi Chen</u>**, Erci Xu, Dengyao Mo, Ruiming Lu, Haonan Wu, Dian Ding, Guangtao Xue.
 
-    **ACM Transaction on Architecture and Code Optimization 22 (1) 2025**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>.
+    ACM Transaction on Architecture and Code Optimization 22 (1) 2025, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>.
 
-- <a href="https://your-paper-link" style="text-decoration: none;">MagPrint++: Continuous User Fingerprinting On Mobile Devices Using Electromagnetic Signals</a>
+- <span style="font-weight: bold;">MagPrint++: Continuous User Fingerprinting On Mobile Devices Using Electromagnetic Signals</span>
 
     Lanqing Yang\*, **<u>Xinqi Chen</u>\***, Hao Pan, Yi-Chao Chen, Guangtao Xue, Zechen Li, Yiheng Bian, Zhen Chen, Dian Ding, Linghe Kong, Jiadi Yu, Feng Lyu, Minglu Li, Ziyu Shen, Bo Zhang **(\*Co-first)**.
 
-    **IEEE Transaction on Mobile Computing 2025**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>.
+    IEEE Transaction on Mobile Computing 2025, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>.
 
-- [Hey Hey, My My, Skewness Is Here to Stay: Challenges and Opportunities in Cloud Block Store Traffic](https://dl.acm.org/doi/10.1145/3689031.3696068)
+- <span style="font-weight: bold;">Hey Hey, My My, Skewness Is Here to Stay: Challenges and Opportunities in Cloud Block Store Traffic</span>
 
     Haonan Wu, Erci Xu, Ligang Wang, Yuandong Hong, Changsheng Niu, Bo Shi, Lingjun Zhu, Jinnian He, Dong Wu, Weidong Zhang, Qiuping Wang, Changhong Wang, **<u>Xinqi Chen</u>**, Guangtao Xue, Yi-Chao Chen, Dian Ding.
 
-    **ACM EuroSys 2025**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>. (Accept rate: 30/367 = 8.2%, spring cycle)
+    ACM EuroSys 2025, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>. (Accept rate: 30/367 = 8.2%, spring cycle)
 
-- [Remote Attacks on Speech Recognition Systems Using Sound from Power Supply](https://www.usenix.org/system/files/usenixsecurity23-yang-lanqing.pdf)
+- <span style="font-weight: bold;">Remote Attacks on Speech Recognition Systems Using Sound from Power Supply</span>
 
     Lanqing Yang, **<u>Xinqi Chen</u>**, Xiangyong Jian, Leping Yang, Yijie Li, Qianfei Ren, Yi-Chao Chen, Guangtao Xue, Xiaoyu Ji.
 
-    **USENIX Security 2023**, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>.
+    USENIX Security 2023, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>.
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
