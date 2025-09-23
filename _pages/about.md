@@ -31,6 +31,7 @@ My current research interests focus on scheduling and resource management in mod
 
 # 🔥 News
 
+- *2025.09*: &nbsp;🎉 Our paper ***Magprint++*** is accepted by **IEEE TMC**!
 - *2025.08*: &nbsp;🎉 Our paper ***Omar*** is accepted by **ACM EuroSys 2026**!
 - *2024.12*: &nbsp;🎉 Our paper ***MasterPlan*** is accepted by **ACM TACO**!
 - *2024.08*: &nbsp;🎉 Our paper ***Hey Hey, My My*** is accepted by **ACM EuroSys 2025**!
@@ -89,13 +90,13 @@ My current research interests focus on scheduling and resource management in mod
 
 # 💻 Internships
 
-- *2025.09 - 2026.06*, Alibaba Cloud, PolarDB Team, Hangzhou, China.
-- *2025.03 - 2026.03*, The Chinese University of Hong Kong, Department of Computer Science and Engineering, Hong Kong, China.
+- *2025.10 - 2026.06*, Alibaba Cloud, PolarDB Team, Hangzhou, China.
+- *2025.03 - 2026.10*, The Chinese University of Hong Kong, Department of Computer Science and Engineering, Hong Kong, China.
 - *2023.09 - 2025.09*, Alibaba Cloud, Elastic Block Storage Team, Hangzhou, China.
 - *2022.07 - 2023.09*, Alibaba Cloud, Pangu AutoOps Team, Hangzhou, China.
 - *2020.10 - 2021.01*, Pudu Robotics, Algorithm Development Team, Shenzhen, China.
 
 # 👻 Misc
 
-- Services: ICIC 2024 (Reviewer), ATC 2025、EuroSys 2025、NSDI 2025、FAST 2025、ICDCS 2025 (Help to review)
+- Services: ICIC 2024 (Reviewer), ATC 2025、EuroSys 2025、NSDI 2025、FAST 2025、ICDCS 2025、NSDI 2026 (Help to review)
 - Hobbies: Basketball, Music
