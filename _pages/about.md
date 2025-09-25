@@ -98,5 +98,5 @@ My current research interests focus on scheduling and resource management in mod
 
 # 👻 Misc
 
-- Services: ICIC 2024 (Reviewer), ATC 2025、EuroSys 2025、NSDI 2025、FAST 2025、ICDCS 2025、NSDI 2026 (Help to review)
+- Services: ICIC 2024 (Reviewer), ATC 2025、EuroSys 2025、NSDI 2025、FAST 2025、ICDCS 2025、NSDI 2026、FAST 2026 (Help to review)
 - Hobbies: Basketball, Music
