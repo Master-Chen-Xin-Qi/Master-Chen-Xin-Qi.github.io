@@ -60,7 +60,7 @@ My current research interests focus on scheduling and resource management in mod
   
     **<u>Xinqi Chen</u>**, Erci Xu, Dengyao Mo, Ruiming Lu, Haonan Wu, Dian Ding, Guangtao Xue.
 
-    ACM Transaction on Architecture and Code Optimization 22 (1) 2025, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>.
+    ACM Transaction on Architecture and Code Optimization, 22 (1) 2025, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>.
 
 - <span style="font-weight: bold;">[TMC'25] MagPrint++: Continuous User Fingerprinting On Mobile Devices Using Electromagnetic Signals</span>
 
