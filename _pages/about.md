@@ -26,8 +26,9 @@ My current research interests focus on scheduling and resource management in mod
 
 # 📖 Educations
 
-- *2021.09 - 2026.06 (Expected)*, Shanghai Jiao Tong University, Computer Science (CS)
-- *2017.08 - 2021.06*, Sun Yat-Sen University, Electronic Engineering (EE)
+- *2021.09 - 2026.06 (Expected)*, Ph.D., Shanghai Jiao Tong University, Computer Science (CS)
+- *2025.03 - 2025.10*, Visiting Student, The Chinese University of Hong Kong, Computer Science (CS)
+- *2017.08 - 2021.06*, B.Sc., Sun Yat-Sen University, Electronic Engineering (EE)
 
 # 🔥 News
 
