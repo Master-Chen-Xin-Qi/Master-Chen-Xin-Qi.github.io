@@ -91,8 +91,8 @@ My current research interests focus on scheduling and resource management in mod
 
 # 💻 Internships
 
-- *2025.10 - 2026.06*, Alibaba Cloud, PolarDB Team, Hangzhou, China.
-- *2025.03 - 2026.10*, The Chinese University of Hong Kong, Department of Computer Science and Engineering, Hong Kong, China.
+- *2025.10 - Now*, Alibaba Cloud, PolarDB Team, Hangzhou, China.
+- *2025.03 - 2025.10*, The Chinese University of Hong Kong, Department of Computer Science and Engineering, Hong Kong, China.
 - *2023.09 - 2025.10*, Alibaba Cloud, Elastic Block Storage Team, Hangzhou, China.
 - *2022.07 - 2023.09*, Alibaba Cloud, Pangu AutoOps Team, Hangzhou, China.
 - *2020.10 - 2021.01*, Pudu Robotics, Algorithm Development Team, Shenzhen, China.
