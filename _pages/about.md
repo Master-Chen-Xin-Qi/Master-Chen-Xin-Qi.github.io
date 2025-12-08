@@ -32,10 +32,10 @@ My current research interests focus on scheduling and resource management in mod
 
 # 🔥 News
 
-- *2025.12*: &nbsp;🎉 Our paper ***ThinkAhead*** is accepted by **USENIX FAST**!
-- *2025.09*: &nbsp;🎉 Our paper ***Magprint++*** is accepted by **IEEE TMC**!
+- *2025.12*: &nbsp;🎉 Our paper ***ThinkAhead*** is accepted by **USENIX FAST 2026**!
+- *2025.09*: &nbsp;🎉 Our paper ***Magprint++*** is accepted by **IEEE TMC 2025**!
 - *2025.08*: &nbsp;🎉 Our paper ***Omar*** is accepted by **ACM EuroSys 2026**!
-- *2024.12*: &nbsp;🎉 Our paper ***MasterPlan*** is accepted by **ACM TACO**!
+- *2024.12*: &nbsp;🎉 Our paper ***MasterPlan*** is accepted by **ACM TACO 2025**!
 - *2024.08*: &nbsp;🎉 Our paper ***Hey Hey, My My*** is accepted by **ACM EuroSys 2025**!
 
 # 📝 Publications
