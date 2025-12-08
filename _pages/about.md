@@ -32,6 +32,7 @@ My current research interests focus on scheduling and resource management in mod
 
 # 🔥 News
 
+- *2025.12*: &nbsp;🎉 Our paper ***ThinkAhead*** is accepted by **USENIX FAST**!
 - *2025.09*: &nbsp;🎉 Our paper ***Magprint++*** is accepted by **IEEE TMC**!
 - *2025.08*: &nbsp;🎉 Our paper ***Omar*** is accepted by **ACM EuroSys 2026**!
 - *2024.12*: &nbsp;🎉 Our paper ***MasterPlan*** is accepted by **ACM TACO**!
@@ -50,6 +51,12 @@ My current research interests focus on scheduling and resource management in mod
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+
+- <span style="font-weight: bold;">[FAST'26] How Soon is Now? Preloading Images for Virtual Disks with ThinkAhead</SPAN>
+
+    **<u>Xinqi Chen</u>**, Yu Zhang, Erci Xu, Changhong Wang, Jifei Yi, Qiuping Wang, Shizhuo Sun, Zhongyu Wang, Haonan Wu, Junping Wu, Hailin Peng, Rong Liu, Yinhu Wang, Jiaji Zhu, Jiesheng Wu, Guangtao Xue, Patrick P. C. Lee.
+
+    Proceedings of the 24<sup>th</sup> USENIX Conference on File and Storage Technologies, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>. (Accept rate: 31/177 = 17.5%, fall cycle)
 
 - <span style="font-weight: bold;">[EuroSys'26] Scheduling Cloud Block Storage Proactively and Reactively with Omar</span>
 
