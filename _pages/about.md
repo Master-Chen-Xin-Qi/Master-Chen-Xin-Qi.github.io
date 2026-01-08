@@ -60,7 +60,7 @@ My current research interests focus on scheduling and resource management in mod
 
 - <span style="font-weight: bold;">[EuroSys'26] Scheduling Cloud Block Storage Proactively and Reactively with Omar</span>
 
-    **<u>Xinqi Chen</u>**, Weidong Zhang, Zhongyu Wang, Erci Xu, Xiaolu Zhang, Dong Wu, Haonan Wu, Ruiming Lu, Yaheng Song, Chaolei Hu, Lijun Ding, Guangtao Xue, Patrick P. C. Lee.
+    **<u>Xinqi Chen</u>**, Weidong Zhang, Zhongyu Wang, Erci Xu, Xiaolu Zhang, Dong Wu, Junping Wu, Haonan Wu, Ruiming Lu, Yaheng Song, Chaolei Hu, Lijun Ding, Guangtao Xue, Patrick P. C. Lee.
 
     Proceedings of the 21<sup>st</sup> European Conference on Computer Systems, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>. (Accept rate: 79/467 = 16.9%, spring cycle)
 
