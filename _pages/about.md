@@ -19,9 +19,9 @@ redirect_from:
 
 # 👨‍💻 About me
 
-I am Xinqi Chen, a fourth-year Ph.D student in Department of Computer Science and Engineering at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Professor [Guangtao Xue](https://scholar.google.com/citations?user=vTC9TSQAAAAJ&hl=zh-CN&oi=ao), Professor [Erci Xu](https://scholar.google.com/citations?user=7Yc6A1QAAAAJ&hl=zh-CN&oi=ao), and Professor [Yi-Chao Chen](https://scholar.google.com/citations?user=LdNIR90AAAAJ). Since July 2022, I have served as a research intern in the Alibaba Innovative Research (AIR) program at Alibaba Cloud, where I collaborated with Pangu AutoOps, Elastic Block Storage, abd PolarDB teams. I have been a visiting student in the Department of Computer Science and Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by Professor [Patrick P. C. Lee](https://scholar.google.com.hk/citations?user=gyRtVVEAAAAJ&hl=zh-CN&oi=ao).
+I am Xinqi Chen, a fifth-year Ph.D student in Department of Computer Science and Engineering at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Professor [Guangtao Xue](https://scholar.google.com/citations?user=vTC9TSQAAAAJ&hl=zh-CN&oi=ao), Professor [Erci Xu](https://scholar.google.com/citations?user=7Yc6A1QAAAAJ&hl=zh-CN&oi=ao), and Professor [Yi-Chao Chen](https://scholar.google.com/citations?user=LdNIR90AAAAJ). Since July 2022, I have served as a research intern in the Alibaba Innovative Research (AIR) program at Alibaba Cloud, where I collaborated with Pangu AutoOps, Elastic Block Storage, and PolarDB teams. I have been a visiting student in the Department of Computer Science and Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by Professor [Patrick P. C. Lee](https://scholar.google.com.hk/citations?user=gyRtVVEAAAAJ&hl=zh-CN&oi=ao).
 
-My current research interests focus on scheduling and resource management in modern storage systems and LLM systems, as well as reliability for systems. Specifically, I have been working on designing efficient schedulers and data prefetchers for key components of distributed storage systems, with the goal of optimizing performance and resource utilization. Before that, I was actively engaged in the research of mobile computing and wireless sensing. My work in this area centered on security-related topics, including current signal attacks on power supplies and electromagnetic side-channel attacks, where I explored vulnerabilities of mobile devices.
+My current research interests focus on scheduling and resource management in modern storage systems and LLM systems, as well as reliability for systems. Specifically, I have been working on designing efficient schedulers and data prefetchers for key components of distributed storage systems, with the goal of optimizing system performance and resource utilization. In my first year of Ph.D, I was actively engaged in the research of mobile computing and wireless sensing. My work in this area centered on security-related topics, including current signal attacks on power supplies and electromagnetic side-channel attacks, where I explored vulnerabilities of mobile devices.
 <!-- Find my CV [here](cv/resume.pdf). -->
 
 # 📖 Educations
@@ -105,5 +105,5 @@ My current research interests focus on scheduling and resource management in mod
 
 # 👻 Misc
 
-- Services: ICIC 2024 (Reviewer), ATC 2025、EuroSys 2025、NSDI 2025、FAST 2025、ICDCS 2025、NSDI 2026、FAST 2026 (Help to review)
+- Services: ICIC'24 (Reviewer), ATC'25、EuroSys'25、NSDI'25、FAST'25、ICDCS'25、NSDI'26、EuroSys'26、FAST'26、DSN'26 (Help to review)
 - Hobbies: Basketball, Music
