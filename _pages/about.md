@@ -86,7 +86,7 @@ My current research interests focus on scheduling and resource management in mod
 
     Lanqing Yang, **<u>Xinqi Chen</u>**, Xiangyong Jian, Leping Yang, Yijie Li, Qianfei Ren, Yi-Chao Chen, Guangtao Xue, Xiaoyu Ji.
 
-    Proceedings of the 32<sup>nd</sup> USENIX Security Symposium, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>.
+    Proceedings of the 32<sup>nd</sup> USENIX Security Symposium, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>. (Accept rate: 422/1444 = 29.2%)
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -105,5 +105,5 @@ My current research interests focus on scheduling and resource management in mod
 
 # 👻 Misc
 
-- Services: ICIC'24 (Reviewer), ATC'25、EuroSys'25、NSDI'25、FAST'25、ICDCS'25、NSDI'26、EuroSys'26、FAST'26、DSN'26 (Help to review)
+- Services: ICIC'24 (Reviewer), ATC'25、EuroSys'25、NSDI'25、FAST'25、ICDCS'25、NSDI'26、EuroSys'26、FAST'26、DSN'26、OSDI'26 (Help to review)
 - Hobbies: Basketball, Music
