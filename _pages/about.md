@@ -32,6 +32,7 @@ My current research interests focus on scheduling and resource management in mod
 
 # 🔥 News
 
+- *2026.04*: Delivering a talk on our paper Omar at EuroSys'26, Edinburgh, UK.
 - *2025.12*: &nbsp;🎉 Our paper ***ThinkAhead*** is accepted by **USENIX FAST 2026**!
 - *2025.09*: &nbsp;🎉 Our paper ***Magprint++*** is accepted by **IEEE TMC 2025**!
 - *2025.08*: &nbsp;🎉 Our paper ***Omar*** is accepted by **ACM EuroSys 2026**!
@@ -88,13 +89,14 @@ My current research interests focus on scheduling and resource management in mod
 
     Proceedings of the 32<sup>nd</sup> USENIX Security Symposium, <span style="color: #de1f00; font-weight: bold;">CCF-A</span>. (Accept rate: 422/1444 = 29.2%)
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+- *2026.04*, Outstanding Ph.D. Graduate, Shanghai Jiao Tong University
+- *2018.09*, Outstanding Student Leader, Sun Yat-Sen University
+- *2018.05, 2019.05, 2020.05*, Outstanding Student Scholarship, Sun Yat-Sen University
+
+<!-- # 💬 Talks
+- *2026.04*, EuroSys'26, Scheduling Cloud Block Storage Proactively and Reactively with Omar, Edinburgh, UK. -->
 
 # 💻 Internships
 
