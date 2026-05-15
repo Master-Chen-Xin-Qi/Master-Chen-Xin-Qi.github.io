@@ -26,12 +26,13 @@ My current research interests focus on scheduling and resource management in mod
 
 # 📖 Educations
 
-- *2021.09 - 2026.06 (Expected)*, Ph.D., Shanghai Jiao Tong University, Computer Science (CS)
+- *2021.09 - 2026.06*, Ph.D., Shanghai Jiao Tong University, Computer Science (CS)
 - *2025.03 - 2025.10*, Visiting Student, The Chinese University of Hong Kong, Computer Science (CS)
 - *2017.08 - 2021.06*, B.Sc., Sun Yat-Sen University, Electronic Engineering (EE)
 
 # 🔥 News
 
+- *2026.05*: Successfully passed my Ph.D. defense!
 - *2026.04*: Delivering a talk on our paper Omar at EuroSys'26, Edinburgh, UK.
 - *2025.12*: &nbsp;🎉 Our paper ***ThinkAhead*** is accepted by **USENIX FAST 2026**!
 - *2025.09*: &nbsp;🎉 Our paper ***Magprint++*** is accepted by **IEEE TMC 2025**!
