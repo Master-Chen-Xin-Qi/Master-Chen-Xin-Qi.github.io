@@ -19,9 +19,9 @@ redirect_from:
 
 # 👨‍💻 About me
 
-I am Xinqi Chen, a final year Ph.D. student in Department of Computer Science and Engineering at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Professor [Guangtao Xue](https://scholar.google.com/citations?user=vTC9TSQAAAAJ&hl=zh-CN&oi=ao), Professor [Erci Xu](https://scholar.google.com/citations?user=7Yc6A1QAAAAJ&hl=zh-CN&oi=ao), and Professor [Yi-Chao Chen](https://scholar.google.com/citations?user=LdNIR90AAAAJ). From July 2022 to January 2026, I have served as a research intern in the Alibaba Innovative Research (AIR) program at Alibaba Cloud, where I collaborated with Pangu, Elastic Block Storage, and PolarDB teams. I have been a visiting student in the Department of Computer Science and Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by Professor [Patrick P. C. Lee](https://scholar.google.com.hk/citations?user=gyRtVVEAAAAJ&hl=zh-CN&oi=ao).
+I am Xinqi Chen, a senior R&amp;D Engineer in the AI State Infra Group at ByteDance, joining through the [Soaring Star Talent](https://jobs.bytedance.com/fe/gf/m) program. I received my Ph.D. degree in Department of Computer Science and Engineering at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Professor [Guangtao Xue](https://scholar.google.com/citations?user=vTC9TSQAAAAJ&hl=zh-CN&oi=ao), Professor [Erci Xu](https://scholar.google.com/citations?user=7Yc6A1QAAAAJ&hl=zh-CN&oi=ao), and Professor [Yi-Chao Chen](https://scholar.google.com/citations?user=LdNIR90AAAAJ). From July 2022 to January 2026, I have served as a research intern in the Alibaba Innovative Research (AIR) program at Alibaba Cloud, where I collaborated with Pangu, Elastic Block Storage, and PolarDB teams. I have been a visiting student in the Department of Computer Science and Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by Professor [Patrick P. C. Lee](https://scholar.google.com.hk/citations?user=gyRtVVEAAAAJ&hl=zh-CN&oi=ao).
 
-My current research interests focus on scheduling and resource management in modern storage systems and LLM systems, performance optimization of storage systems, and system reliability. Specifically, I focus on developing schedulers and data prefetchers for critical modules in distributed storage systems, striving to elevate system performance and improve resource efficiency. During my first year as a Ph.D. student, I was actively engaged in the research of mobile computing and wireless sensing, with a particular emphasis on security issues such as power supply current signal attacks and electromagnetic side-channel attacks, investigating vulnerabilities in mobile devices.
+My current research interests focus on scheduling, resource management, and performance optimization in modern storage systems and LLM systems. Specifically, I focus on developing schedulers and data prefetchers for critical modules in distributed storage systems, striving to elevate system performance and improve resource efficiency. During my first year as a Ph.D. student, I was actively engaged in the research of mobile computing and wireless sensing, with a particular emphasis on security issues such as power supply current signal attacks and electromagnetic side-channel attacks, investigating vulnerabilities in mobile devices.
 <!-- Find my CV [here](cv/resume.pdf). -->
 
 # 📖 Educations
@@ -92,12 +92,15 @@ My current research interests focus on scheduling and resource management in mod
 
 # 🎖 Honors and Awards
 
-- *2026.04*, Outstanding Ph.D. Graduate, Shanghai Jiao Tong University
+- *2026.05*, Outstanding Ph.D. Graduate, Shanghai Jiao Tong University
 - *2018.09*, Outstanding Student Leader, Sun Yat-Sen University
 - *2018.05, 2019.05, 2020.05*, Outstanding Student Scholarship, Sun Yat-Sen University
 
 <!-- # 💬 Talks
 - *2026.04*, EuroSys'26, Scheduling Cloud Block Storage Proactively and Reactively with Omar, Edinburgh, UK. -->
+
+<!-- # ⚙️ Work Experiences -->
+
 
 # 💻 Internships
 
